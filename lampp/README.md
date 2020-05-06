@@ -1,11 +1,12 @@
 ## LAMPP
 ----------------
 Version no : 1.0
+
 Developed by Vishnu Jayan
 Its a simple lampp starter that allow us to start lampp one step away
 Simply type the command 'lampp' and select the choice you want with lampp
 Have suggestions? mail to vishnujayadhevan@yahoo.com
-Suggestions lways welcome!
+Suggestions always welcome!
 
 ### Instruction to execute
 
