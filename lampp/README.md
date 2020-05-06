@@ -1,4 +1,4 @@
-##LAMPP
+## LAMPP
 ----------------
 Version no : 1.0
 Developed by Vishnu Jayan
@@ -7,7 +7,7 @@ Simply type the command 'lampp' and select the choice you want with lampp
 Have suggestions? mail to vishnujayadhevan@yahoo.com
 Suggestions lways welcome!
 
-###Instruction to execute
+### Instruction to execute
 
 1. Download or clone the lampp start
 2. Open the terminal or ctrl+alt+T
